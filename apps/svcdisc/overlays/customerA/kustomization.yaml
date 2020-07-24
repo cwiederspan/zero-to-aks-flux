@@ -1,0 +1,9 @@
+bases:
+- ../../base
+
+resources:
+- ./namespace.yaml
+
+namespace: customer-custA
+
+nameSuffix: -custA
